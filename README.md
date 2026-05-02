@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Антон — AI / Data Enthusiast</h1>
+<p align="center">Студент • AI • Data</p>
 
-<!--
-**Anton-gra/Anton-gra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Основной фокус
+- AI-агенты и пайплайны
+- Data Analysis
+- Автоматизация задач
 
-Here are some ideas to get you started:
+## 🛠️ Технологии
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Чем занимаюсь сейчас
+- Готовлю проекты для портфолио  
+- Прокачиваю алгоритмы и Python  
+- Углубляюсь в AI и аналитику  
+
+## 📫 Контакты
+- Telegram: @your_username
