@@ -1,26 +1,47 @@
-<h1 align="center">Антон — AI / Data Enthusiast</h1>
-<p align="center">Студент • AI • Data</p>
+<h1 align="center">Gorbenko Anton</h1>
 
-## 📚 Основной фокус
-- AI-агенты и пайплайны
-- Data Analysis
-- Автоматизация задач
+## About Me
+🎓 **Education**: HSE Moscow, Graduate School of Business, Business Informatics (Class of 2027)  
+🚀 **Interests**: Looking for opportunities in AI development and data science. Passionate about learning new technologies and working on real-world projects.
 
-## 🛠️ Технологии
+## 🛠️ Tech Stack
+
+### Data Science:
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
-## 📈 Чем занимаюсь сейчас
-- Готовлю проекты для портфолио  
-- Прокачиваю алгоритмы и Python  
-- Углубляюсь в AI и аналитику  
+### Databases:
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-## 📫 Контакты
-- Telegram: @your_username
+### Programming:
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+## 📚 Current Focus
+- AI Agents and LLMs
+- Data Analysis
+- Task Automation
+
+## 📈 What I'm Currently Working On
+- Preparing projects for my portfolio  
+- Improving algorithms and Python skills  
+- Diving deeper into AI and analytics  
+
+## 📫 Contact
+- Telegram: @an_g_r
+- GitHub: [github.com/Anton-gra](https://github.com/Anton-gra)
